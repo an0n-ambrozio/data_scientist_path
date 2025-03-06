@@ -34,7 +34,7 @@ This is a personal learning repository, but feel free to explore, suggest improv
 
 ## 📬 Connect with Me
 Let's connect and share knowledge!
-- GitHub: [YourProfile](https://github.com/YourProfile)
-- LinkedIn: [YourLinkedIn](https://www.linkedin.com/in/YourLinkedIn/)
+- GitHub: [YourProfile]((https://github.com/an0n-ambrozio))
+- LinkedIn: [YourLinkedIn](https://www.linkedin.com/in/matheus-ambrozio-0463b8295/)
 
 Stay tuned for updates as I progress on this journey! 🚀
